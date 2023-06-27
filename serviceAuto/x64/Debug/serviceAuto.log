@@ -1,0 +1,19 @@
+﻿  Source.cpp
+C:\Users\Lucy\Desktop\Alina\serviceAuto\Source.cpp(275,18): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Lucy\Desktop\Alina\serviceAuto\Source.cpp(315,21): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lucy\Desktop\Alina\serviceAuto\Source.cpp(324,21): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Lucy\Desktop\Alina\serviceAuto\Source.cpp(328,21): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lucy\Desktop\Alina\serviceAuto\Source.cpp(531,33): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lucy\Desktop\Alina\serviceAuto\Source.cpp(848,23): warning C4584: 'Client': base-class 'afisabil' is already a base-class of 'Persoana'
+C:\Users\Lucy\Desktop\Alina\serviceAuto\Source.cpp(29,7): message : see declaration of 'afisabil'
+C:\Users\Lucy\Desktop\Alina\serviceAuto\Source.cpp(43,7): message : see declaration of 'Persoana'
+C:\Users\Lucy\Desktop\Alina\serviceAuto\Source.cpp(936,16): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lucy\Desktop\Alina\serviceAuto\Source.cpp(970,27): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Lucy\Desktop\Alina\serviceAuto\Source.cpp(986,54): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Lucy\Desktop\Alina\serviceAuto\Source.cpp(1070,21): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\Lucy\Desktop\Alina\serviceAuto\Source.cpp(1265,13): warning C4101: 'a': unreferenced local variable
+C:\Users\Lucy\Desktop\Alina\serviceAuto\Source.cpp(1371,20): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Lucy\Desktop\Alina\serviceAuto\Source.cpp(1381,20): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Lucy\Desktop\Alina\serviceAuto\Source.cpp(1619): warning C4715: 'AlegeInterventie': not all control paths return a value
+C:\Users\Lucy\Desktop\Alina\serviceAuto\Source.cpp(949): warning C4715: 'Client::getMasina': not all control paths return a value
+  serviceAuto.vcxproj -> C:\Users\Lucy\Desktop\Alina\serviceAuto\x64\Debug\serviceAuto.exe
